@@ -12,12 +12,12 @@ By the end of the course, you’ll be adept with the knowledge to create great v
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Build basic to more advanced charts with step-by-step solutions 
-<LI>Use filters, calculated fields, parameters, and actions to add interactivity to charts and dashboards 
-<LI>Create effective and compelling dashboards and story points 
-<LI>Leverage Tableau’s mapping capabilities to visualize location and shape data 
-<LI>Integrate analytics and forecasting to enhance data analysis 
-<LI>Get to know tips and tricks to work more quickly and effectively in Tableau </LI></UL></DIV>
+<LI>Connect data with Tableau and understand the available data sources 
+<LI>Blending your data and incorporating data sources 
+<LI>Learn how to make interactive visualizations 
+<LI>Understand different calculations in Tableau 
+<LI>Understanding Mapping and geocoding functionalities 
+<LI>See Building dashboards and creating visualizations in Tableau </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
