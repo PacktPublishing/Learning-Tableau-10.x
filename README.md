@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Learning Tableau 10.x [Video]
 This is the code repository for [Learning Tableau 10.x [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau-10x-video?utm_source=github&utm_medium=repository&utm_campaign=9781788836043), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
